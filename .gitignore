@@ -1,0 +1,27 @@
+# Hide all Replit, AWS, and build files from public view
+*.replit
+*.env
+__pycache__/
+.env*
+.DS_Store
+.idea/
+*.log
+*.sqlite3
+*.db
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+*.pem
+*.key
+node_modules/
+.env.local
+dist/
+build/
+.secrets/
+config.json
+*.bak
+*.zip
+*.tar
+*.gz
+*.cert
